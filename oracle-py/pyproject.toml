@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "oracle-db"
+name = "oracle-py"
 version = "0.1.0"
 description = ""
 authors = ["yuya-okada527 <yuya.okada527@gmail.com>"]

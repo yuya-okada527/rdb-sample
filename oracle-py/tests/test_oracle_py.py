@@ -1,4 +1,4 @@
-from oracle_db import __version__
+from oracle_py import __version__
 
 
 def test_version():
